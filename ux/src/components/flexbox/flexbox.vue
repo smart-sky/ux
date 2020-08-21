@@ -70,7 +70,7 @@ export default {
   box-orient: horizontal;
   flex-direction: row;
 }
-
+/*ceshi*/
 .vux-flex-col {
   box-orient: vertical;
   flex-direction: column;
